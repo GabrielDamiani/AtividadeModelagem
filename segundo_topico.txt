@@ -1,0 +1,5 @@
+**2_ Com suas palavras, explique a importância de seguir as regras normais no desenvolvimento de uma modelagem de dados.**
+
+    Em suma, as regras normais servem para que a modelagem resultante tenha o mínimo de dados repetidos e dependências possíveis, idealmente sendo zero no número dessas. Elas são várias,
+porém as mas seguidas, e as que mais têm aplicabilidade em bancos de dados reais são 3. A primeira regra normal trata de tabelas com atributos compostos e/ou multivalorados. Já a segunda
+e a terceira tratam de dependências, sendo a segunda focada em dependencias funcionais e a terceira em transitivas.
