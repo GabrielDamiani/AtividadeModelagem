@@ -1,0 +1,9 @@
+**4_ Sobre a modelagem feita por Ianko para a ImmoLink, quais são as divergências em relação ao seu pensamento, seja em tipagem, nomenclatura, tabelas, etc.**
+
+1- Nomenclatura de tabelas: Para padronização, minha preferência é utilizar os nomes todos em minúsculo, separados por underline;
+2- Tipagem de DDD e número de telefone, prefiro utilizar tinyint e bigint;
+3- No id de "cidade" eu utilizaria smallint ao invés de int, visto que há menos de 65 mil cidades no Brasil (cerca de 5 mil);
+4- No id de "UF" eu utilizaria tinyint, visto que há menos de 255 UFs no Brasil;
+5- Na entidade "edificio" a quantidade de andares deveria ser tinyint, já que o burj khalifa tem 163 andares;
+6- Eu colocaria tinyint para todos os IDs de "tipo", sendo tipo de feedback, tipo de status, tipo de contato;
+7- Trocaria a tipagem de CEP para bigint;
