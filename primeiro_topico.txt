@@ -1,0 +1,22 @@
+**01_ Cite qual é a utilidade de cada um dos pilares do pensamento computacional e como podem ser usados em problemas reais não relacionados a computadores.**
+
+    Os pilares do pensamento computacional são divididos entre: abstração, reconhecimento de padrões e algoritmo. A junção desses pilares formam um conjunto de práticas voltadas a
+otimizar atividades no geral através da criação de algoritmos, ou seja, um conjunto de práticas sequenciais, sendo ou não voltadas ao mundo da tecnologia. Partindo para suas
+descrições e utilidades individuais, temos:
+
+    Decomposição: é o conceito de "partir" o problema alvo em problemas de menor complexidade. Essa partição possibilita um melhor entendimento e melhor aplicabilidade dos demais pilares
+        em cada célula nova criada.
+
+    Abstração: pilar que trata de uma espécie de filtro que deve-se aplicar nos dados recolhidos. Esse pilar é essencial para que as informações presentes na atividade desenvolvida sejam
+        somente informações relevantes ao caso específico, sem dados extras irrelevantes ao caso.
+
+    Reconhecimento de padrões: esse pilar trata de uma análise dos dados filtrados depois da abstração. A prática de reconhecer padrões é imprescindível para criação de algorítmos, com
+        o conhecimento do que se repete no seu objeto de estudo, mais fácil fica de prever em quais situações precisará utilizar determinada abordagem.
+
+    Criação de algoritmo: essa prática refere-se ao ato de criar regras de práticas sequenciais que abordem de forma otimizada, linear e finita a solução de um problema alvo. Esse pilar
+        é o último dos 4, pois depende inerentemente dos 3 anteriores.
+
+    A junção dos 4 pilares representa o pensamento computacional em sua essência. Porém, apesar do nome, o pensamento computacional não é prática restrita ao campo computacional, muito
+menos tecnológico. Com essa base de pilares, atividades no geral podem ser otimizadas, sejam elas simples como o preparo de um ovo frito, até a otimização do trabalho em uma rede
+internacional de hamburgueria como o McDonald's. Cada passo tomado por cada funcionário passou por uma análise criteriosa para otimização do tempo, análise a qual poderia ser facilmente
+realizada com os pilares do pensamento computacional.
